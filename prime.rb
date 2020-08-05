@@ -5,6 +5,8 @@ count = 0
     return false
   # elsif num == 2
   #   return true
+  elsif num == 4
+    return false
   else
     i = 2
     while (i < num)
